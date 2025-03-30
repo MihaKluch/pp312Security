@@ -12,8 +12,6 @@ public class SpringBootSecurityDemoApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(SpringBootSecurityDemoApplication.class, args);
-		String url = "http://localhost:8080/login";
-		System.out.println("Для начала работы перейдите по ссылке: " + url);
 
 	}
 }
